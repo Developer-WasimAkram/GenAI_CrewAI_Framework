@@ -2,6 +2,6 @@ crewai
 crewai-tools
 python-dotenv
 streamlit
-pysqlite3
+
 chromadb
 
